@@ -1,0 +1,11 @@
+h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+    font-size: large;
+    font-weight: 200;
+    font-weight: 900;
+    text-decoration: underline;
+}
+#para1{
+    text-transform: uppercase;
+}
